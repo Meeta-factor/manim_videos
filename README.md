@@ -1,4 +1,4 @@
-**本仓库不再与 3b1b 同步更新，如果想看作者所写的一些动画，可至 https://github.com/widcardw/my-manim-projects 查看**
+**本仓库不再与 3b1b 同步更新，如果想看作者所写的一些动画，可至 https://github.com/Meeta-factor/manim_videos 查看**
 
 <p align="center">
     <a href="https://github.com/3b1b/manim">
